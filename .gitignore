@@ -1,0 +1,10 @@
+me/
+.ipynb_checkpoints/
+*.pt
+*.h5
+*.zip
+# Large / generated files
+*.pkl
+*.zip
+d-2/EMNIST_data/
+__pycache__/
