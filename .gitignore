@@ -40,3 +40,12 @@ d-3/tobacco/
 d-3/waterapple/
 d-3/watermelon/
 d-3/*
+# Datasets
+cifar_100/
+*.tar.gz
+data/
+
+# Images
+*.png
+*.jpg
+
