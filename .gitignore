@@ -41,6 +41,11 @@ d-3/waterapple/
 d-3/watermelon/
 # CIFAR dataset
 d-4/cifar_100/
+*.tar.gz
+*.zip
+*.pt
+*.pkl
+
 
 # Generated images
 d-4/nb_image/*.png
