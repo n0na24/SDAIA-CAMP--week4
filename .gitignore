@@ -39,13 +39,11 @@ d-3/sweetpotatoes/
 d-3/tobacco/
 d-3/waterapple/
 d-3/watermelon/
-d-3/*
-# Datasets
-cifar_100/
-*.tar.gz
-data/
+# CIFAR dataset
+d-4/cifar_100/
 
-# Images
-*.png
-*.jpg
+# Generated images
+d-4/nb_image/*.png
 
+# Backup files
+*~
